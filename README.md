@@ -1,1 +1,2 @@
-# DTS-FGA-Artificial-Intelligence
+# DTS-FGA-Artificial Intelligence 2019
+Fresh Graduate Academy (FGA) is one of Digital Talent Scholarship's programs held by Ministry of Communication and Informatics. FGA is intended for last year students and graduates of D3/D4/S1 so that they have professional competencies in the era of the industrial revolution 4.0. This program lasts 144 hours of lessons which includes face-to-face (offline) training activities, companion classes or add on, competency test, and certification. There are six themes of this program and one of them is Artificial Intelligence.
